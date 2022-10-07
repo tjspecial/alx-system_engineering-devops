@@ -1,2 +1,2 @@
 #!/bin/bash
-id -Gn user
+id -Gn
